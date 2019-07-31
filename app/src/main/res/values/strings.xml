@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">pushnotificationsapp</string>
+    <string name="msg_subscribed">subscribed</string>
+    <string name="msg_subscribe_failed">subscription failed</string>
+</resources>
